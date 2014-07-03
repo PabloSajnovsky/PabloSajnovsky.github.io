@@ -1,0 +1,12 @@
+# Site settings
+title: Curso de Linux
+email: your-email@domain.com
+description: "Curso de Linux I."
+baseurl: ""
+url: "http://cursolinux.github.io/CursoLinux"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
