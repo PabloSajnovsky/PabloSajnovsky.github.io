@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Primer publicación!"
-date:   2014-07-02 16:57:32
+title: "Primer publicación!"
+date: {}
 categories: jekyll update
+published: true
 ---
 
-Estoy probando este sistema de contenido estático llamado Jekyll. Saludos.
+
+Estoy probando este sistema de contenido estático llamado **Jekyll**. Saludos.
