@@ -1,9 +1,9 @@
 # Site settings
-title: Curso de Linux
+title: Blog
 email: your-email@domain.com
-description: "Curso de Linux I."
+description: "Blog"
 baseurl: ""
-url: "http://cursolinux.github.io/CursoLinux"
+url: "http://pablosajnovsky.github.io"
 
 # Build settings
 markdown: kramdown
