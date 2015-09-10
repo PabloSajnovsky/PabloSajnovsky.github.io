@@ -1,12 +1,4 @@
-# Site settings
-title: Blog
-email: your-email@domain.com
-description: "Blog"
-baseurl: ""
-url: "http://pablosajnovsky.github.io"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-highlighter: pygments
-
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mark Otto</title>
+ <link href="http://www.markdotto.com/atom.xml" rel="self"/>
+ <link href="http://www.markdotto.com/"/>
+ <updated>2015-09-09T22:10:20-04:00</updated>
+ <id>http://www.markdotto.com/</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hola</title>
+   <link href="http://www.markdotto.com/2012/02/06/whats-jekyll/"/>
+   <updated>2012-02-06T00:00:00-03:00</updated>
+   <id>http://www.markdotto.com/2012/02/06/whats-jekyll</id>
+   <content type="html">&lt;h2&gt;Este es un post de prueba&lt;/h2&gt;
+
+&lt;p&gt;Hasta luego.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
